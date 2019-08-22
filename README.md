@@ -1,4 +1,6 @@
 SampleProject1です
-mergeのテスト
-これでできるのかな？？
-？？？
+
+cloneに成功しました
+
+これからmergeするよ！！
+
