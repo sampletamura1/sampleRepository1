@@ -1,6 +1,3 @@
 SampleProject1です
 
-cloneに成功しました
-
-これからmergeするよ！！
-
+cloneしたものをローカルで編集してpushしてmergeできるかのチェック
